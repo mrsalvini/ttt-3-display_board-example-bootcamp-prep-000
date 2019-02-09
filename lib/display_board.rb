@@ -4,5 +4,6 @@ def display_board
   columns = "   |   |   "
   row = "-----------"
 
-  puts columns
+  puts columns, row, columns, row, columns
+end
   
