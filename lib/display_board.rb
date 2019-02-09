@@ -2,6 +2,7 @@
 
 def display_board
   columns = "   |   |   "
-  row = ""
-  puts "   |   |   "
+  row = "-----------"
+
+  puts columns
   
